@@ -4,3 +4,4 @@
 tmp/*
 .env
 .coverage
+helloworld_project/db.sqlite3
